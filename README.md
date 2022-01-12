@@ -1,6 +1,6 @@
 # hgdzShop
 
-Projet d'application e-commerce pour vetement (non fini)
+Projet d'application e-commerce pour vetement (non fini/en cours de création)
 
 Template créer à partir de figma
 Developpement:
